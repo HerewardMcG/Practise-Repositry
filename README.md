@@ -42,3 +42,28 @@ Just adding small examples of Html and CSS code for prosperity
     </html>
   </head>
 </html>
+
+
+
+CSS
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(248, 195, 195);
+}
+.first {
+  color: blue;
+  font-size: 30px;
+}
+.second {
+  padding: 20px;
+}
+#your-name {
+  color: red;
+  border: 5px dashed;
+}
